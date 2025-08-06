@@ -1,0 +1,24 @@
+Problema: Comprar goiaba verde
+
+Escolher um horário livre e o supermercado de preferência;
+Ir ao supermercado;
+Ir ao setor de frutas;
+Pegar apenas as goiabas verdes e por numa sacola;
+Levar ao caixa;
+Pagar com a forma de pagamento preferida;
+Voltar para casa;
+Armazenar corretamente a goiaba verde.
+
+
+
+Problema:  Vender uma câmera digital pela internet
+
+Pesquisar o valor de mercado da câmera;
+Estebelecer um valor e escolher a plataforma digital para vender;
+Criar um anúncio em texto para venda;
+Incluir fotos ao anúncio;
+Aguardar a venda;
+Embalar o produto vendido;
+Postar nos correios e informar ao cliente pelo chat da plataforma;
+Aguardar o recebimento pelo cliente;
+Receber o valor pelo banco.
